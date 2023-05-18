@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talvindersingh
-- 👀 I’m interested in Azure Devops and Azure 
-- 🌱 I’m currently learning Azure Devops
+- 👀 I’m interested in Devops tool stack. Worked in Azure Cloud, Azure Devops, CDN, K8s, VMware.
+
 
 
 <!---
