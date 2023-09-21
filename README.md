@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @talvindersingh
-- 👀 I’m interested in Devops tool stack. Worked in Azure Cloud, Azure Devops, CDN, K8s, VMware.
+- 👀 I’m interested in Devops tool stack. Working in Azure Cloud, Azure Devops, CDN, K8s, GCP, VMware.
+- Avid reader
+- https://techopenstack.wordpress.com/blog/
 
 
 
