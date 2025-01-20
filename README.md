@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @talvindersingh
-- 👀 I’m interested in Devops tool stack. Working in Azure Cloud, Azure Devops, CDN, K8s, GCP, VMware.
+- 👀 I’m interested in Devops and GenAI tool stack. Working in Azure/AWS Cloud, Azure Devops, Github Actions, CDN, K8s, AWS AI services.
+- AWS Certified Solution Architect
+- AWS Certified AI Practitioner
 - Avid reader
+- https://techtalvi.hashnode.dev/
 - https://techopenstack.wordpress.com/blog/
 
 
